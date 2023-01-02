@@ -12,6 +12,7 @@ def convert(c1,a,c2):
 
 print(" ---------------------- ")
 print("|  Currency Converter  |")
+print("|    Python Project    |")
 print(" ---------------------- ")
 for i in currency.keys():
     print(i)
